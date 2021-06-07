@@ -1,0 +1,42 @@
+C:\Users\JODSON\source\repos\Simply\Simply\bin\Debug\Simply.exe.config
+C:\Users\JODSON\source\repos\Simply\Simply\bin\Debug\Simply.exe
+C:\Users\JODSON\source\repos\Simply\Simply\bin\Debug\Simply.pdb
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.csprojAssemblyReference.cache
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmPrincipal.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.Properties.Resources.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.csproj.GenerateResource.cache
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.csproj.CoreCompileInputs.cache
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.exe
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.pdb
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmCadastro.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmTransacao.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmRelatorio.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmSair.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmSobre.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmAgradecimento.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmEmDesenvolvimento.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmAtualizarCadastro.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmConsultaEspecifica.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmExcluirCadastro.resources
+C:\Users\JODSON\source\repos\Simply\Simply\obj\Debug\Simply.FrmAjuda.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\bin\Debug\Simply.exe.config
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\bin\Debug\Simply.exe
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\bin\Debug\Simply.pdb
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.csprojAssemblyReference.cache
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmAjuda.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmAtualizarCadastro.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmConsultaEspecifica.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmExcluirCadastro.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmAgradecimento.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmCadastro.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmEmDesenvolvimento.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmPrincipal.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmRelatorio.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmSair.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmSobre.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.FrmTransacao.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.Properties.Resources.resources
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.csproj.GenerateResource.cache
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.csproj.CoreCompileInputs.cache
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.exe
+C:\Users\Caroline Souza\OneDrive\Documents\Análise e Desenvolvimento de Sistemas\Unip\3º Semestre\PIM\desktop-simple\Simply\obj\Debug\Simply.pdb
